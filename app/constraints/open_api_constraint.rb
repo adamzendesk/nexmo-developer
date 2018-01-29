@@ -2,6 +2,7 @@ OPEN_API_PRODUCTS = %w(
   sms
   media
   number-insight
+  reports
 )
 
 class OpenApiConstraint
